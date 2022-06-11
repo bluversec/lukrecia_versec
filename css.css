@@ -1,0 +1,88 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1 {
+	font-family:andika;
+	color:black;
+	font-size:90px;
+	line-height:10px;
+}
+h2 {
+	font-family:andika;
+	color:#2145C8;
+	font-size:40px;
+}
+h3{
+	color:darkblue;
+	font-size: 25px;
+}
+h4{
+	font-size: 25px;
+	color: black;
+}
+.paragraf_2{color:black; background-color: rgba(207, 54, 207, 0.2);
+margin:inherit;	
+		width: 36.5%;
+
+}
+.paragraf_3{color:#CF36CF; background-color: rgba(88, 189, 185, 0.2);
+	margin: inherit;
+	font-size: 40px;
+	width: 34%;
+	padding-left: 50px;
+	font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"
+}
+.paragraf_4{color:black; background-color: rgba(88, 189, 185, 0.7);
+	widht: 25%;
+	padding: 10px;
+}
+.paragraf_5{color:black; background-color: rgba(207, 54, 207, 0.2);
+	width: 54%;
+	padding-left: 3%;
+	padding-right: 3%;
+}
+.paragraf_6{color:black; background-color: rgba(207, 54, 207, 0.2);
+	padding: 15px
+}
+.paragraf_7{color:black; background-color: rgba(207, 54, 207, 0.2);
+	padding: 20px;
+		margin: 20px;
+	width: 35%;
+}
+.novi_blok {
+	color:darkcyan; background-color: rgba(255, 255, 255, 0.1);
+	padding: 20px;
+	margin: 20px;
+	width: 35%;
+}
+ul{color:black;
+font-size: 30;}
+p1 {
+	color: darkblue;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 20px;
+	line-height: 22px;
+	width: 450px;
+	background-color:rgba(88,189,185,0.5);
+	padding: 15px;
+}
+p {
+	color: black;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 20px;
+	line-height: 22px;
+	width: 500px;
+	background-color:rgba(88,189,185,0.3);
+	padding: 15px;
+}
+a{
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	color:#CF36CF;
+	font-size: 20px;
+	padding: 10px;
+	line-height: 45px;
+}
+img{height: 300px}
+body{
+background-image:url("slike/pozadina.jpg")
+}
