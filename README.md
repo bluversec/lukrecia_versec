@@ -1,1 +1,0 @@
-# lukrecia_versec
